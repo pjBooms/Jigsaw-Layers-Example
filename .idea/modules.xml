@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Jigsaw-Layers-Example.iml" filepath="$PROJECT_DIR$/.idea/Jigsaw-Layers-Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jug.nsk.provider/jug.nsk.provider.iml" filepath="$PROJECT_DIR$/jug.nsk.provider/jug.nsk.provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/jug.ru.provider/jug.ru.provider.iml" filepath="$PROJECT_DIR$/jug.ru.provider/jug.ru.provider.iml" />
     </modules>
   </component>

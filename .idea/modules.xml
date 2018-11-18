@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Jigsaw-Layers-Example.iml" filepath="$PROJECT_DIR$/.idea/Jigsaw-Layers-Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/devoxx.belgium.provider/devoxx.belgium.provider.iml" filepath="$PROJECT_DIR$/devoxx.belgium.provider/devoxx.belgium.provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/devoxx.ukraine.provider/devoxx.ukraine.provider.iml" filepath="$PROJECT_DIR$/devoxx.ukraine.provider/devoxx.ukraine.provider.iml" />
     </modules>
   </component>
 </project>

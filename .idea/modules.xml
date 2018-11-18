@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Jigsaw-Layers-Example.iml" filepath="$PROJECT_DIR$/.idea/Jigsaw-Layers-Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jprime.provider/jprime.provider.iml" filepath="$PROJECT_DIR$/jprime.provider/jprime.provider.iml" />
     </modules>
   </component>
 </project>
